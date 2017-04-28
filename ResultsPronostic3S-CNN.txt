@@ -1,0 +1,12 @@
+Test numero = 1
+Test score for slices0.715654707487
+Test accuracy for slices0.546684709066
+Accuracy : 0.545454545455
+Sens = 0.0
+Spec = 1.0
+Vp = 0
+FP = 15
+VN = 18
+
+********************
+Test numero = 2
