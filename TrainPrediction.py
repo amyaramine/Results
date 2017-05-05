@@ -13,7 +13,7 @@ from sklearn.utils import shuffle
 np.random.seed(1337)  # for reproducibility
 batch_size = 256
 nb_classes = 2
-nb_epoch =  1000
+nb_epoch =  100
 
 # number of convolutional filters to use
 nb_filters = 32
@@ -84,22 +84,22 @@ def CNN_Model4CouchesNew(img_rows, img_cols, color_type=1):
                         border_mode='valid',
                         input_shape=(color_type, img_rows, img_cols)))
   model.add(Activation('tanh'))
-  model.add(MaxPooling2D(pool_size=(nb_pool, nb_pool)))
+  model.add(MaxPooling2D(pool_size=(nb_pool, nb_pool), strides=(2,2)))
   model.add(Dropout(0.25))
 
   model.add(Convolution2D(32, nb_conv, nb_conv))
   model.add(Activation('tanh'))
-  model.add(MaxPooling2D(pool_size=(nb_pool, nb_pool)))
+  model.add(MaxPooling2D(pool_size=(nb_pool, nb_pool), strides=(2,2)))
   model.add(Dropout(0.25))
 
   model.add(Convolution2D(64, nb_conv, nb_conv))
   model.add(Activation('tanh'))
-  model.add(MaxPooling2D(pool_size=(nb_pool, nb_pool)))
+  model.add(MaxPooling2D(pool_size=(nb_pool, nb_pool), strides=(2,2)))
   model.add(Dropout(0.25))
 
   model.add(Convolution2D(128, nb_conv, nb_conv))
   model.add(Activation('tanh'))
-  model.add(MaxPooling2D(pool_size=(nb_pool, nb_pool)))
+  model.add(MaxPooling2D(pool_size=(nb_pool, nb_pool), strides=(2,2)))
   model.add(Dropout(0.25))
 
   model.add(Flatten())

@@ -1,1 +1,120 @@
 Test numero = 1
+Test score for slices: 1.51269335217
+Test accuracy for slices: 0.556927297576
+Accuracy : 0.666666666667
+ Sens = 0.75
+ Spec = 0.538461538462
+ Vp = 15
+ FP = 6
+ FN = 5
+ VN = 7
+
+****************
+Test numero = 2
+Test score for slices: 1.37949427316
+Test accuracy for slices: 0.577080490888
+Accuracy : 0.636363636364
+ Sens = 0.8
+ Spec = 0.384615384615
+ Vp = 16
+ FP = 8
+ FN = 4
+ VN = 5
+
+****************
+Test numero = 3
+Test score for slices: 1.24982372629
+Test accuracy for slices: 0.483383685621
+Accuracy : 0.484848484848
+ Sens = 0.5
+ Spec = 0.461538461538
+ Vp = 10
+ FP = 7
+ FN = 10
+ VN = 6
+
+****************
+Test numero = 4
+Test score for slices: 1.20242546803
+Test accuracy for slices: 0.516254876463
+Accuracy : 0.545454545455
+ Sens = 0.588235294118
+ Spec = 0.5
+ Vp = 10
+ FP = 8
+ FN = 7
+ VN = 8
+
+****************
+Test numero = 5
+Test score for slices: 1.45433243405
+Test accuracy for slices: 0.550607287449
+Accuracy : 0.575757575758
+ Sens = 0.75
+ Spec = 0.411764705882
+ Vp = 12
+ FP = 10
+ FN = 4
+ VN = 7
+
+****************
+Test numero = 6
+Test score for slices: 1.27392342061
+Test accuracy for slices: 0.534075104394
+Accuracy : 0.575757575758
+ Sens = 0.368421052632
+ Spec = 0.857142857143
+ Vp = 7
+ FP = 2
+ FN = 12
+ VN = 12
+
+****************
+Test numero = 7
+Test score for slices: 1.1930664485
+Test accuracy for slices: 0.582089552239
+Accuracy : 0.727272727273
+ Sens = 0.625
+ Spec = 0.823529411765
+ Vp = 10
+ FP = 3
+ FN = 6
+ VN = 14
+
+****************
+Test numero = 8
+Test score for slices: 1.47889645676
+Test accuracy for slices: 0.48753117207
+Accuracy : 0.484848484848
+ Sens = 0.368421052632
+ Spec = 0.642857142857
+ Vp = 7
+ FP = 5
+ FN = 12
+ VN = 9
+
+****************
+Test numero = 9
+Test score for slices: 1.41961959178
+Test accuracy for slices: 0.52
+Accuracy : 0.545454545455
+ Sens = 0.578947368421
+ Spec = 0.5
+ Vp = 11
+ FP = 7
+ FN = 8
+ VN = 7
+
+****************
+Test numero = 10
+Test score for slices: 1.890944747
+Test accuracy for slices: 0.520599250936
+Accuracy : 0.545454545455
+ Sens = 0.588235294118
+ Spec = 0.5
+ Vp = 10
+ FP = 8
+ FN = 7
+ VN = 8
+
+****************
