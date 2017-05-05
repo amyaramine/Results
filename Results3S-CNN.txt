@@ -1,0 +1,110 @@
+Test numero = 1
+Test score for slices0.692598546972
+Test accuracy for slices0.523378582562
+Accuracy : 0.606060606061
+Sens = 1.0
+Spec = 0.0
+Vp = 20
+FP = 0
+VN = 0
+
+********************
+Test numero = 2
+Test score for slices0.693935035855
+Test accuracy for slices0.494752623688
+Accuracy : 0.606060606061
+Sens = 1.0
+Spec = 0.0
+Vp = 20
+FP = 0
+VN = 0
+
+********************
+Test numero = 3
+Test score for slices0.704035691767
+Test accuracy for slices0.417785234899
+Accuracy : 0.393939393939
+Sens = 0.0
+Spec = 1.0
+Vp = 0
+FP = 20
+VN = 13
+
+********************
+Test numero = 4
+Test score for slices0.711849698301
+Test accuracy for slices0.413940256046
+Accuracy : 0.515151515152
+Sens = 1.0
+Spec = 0.0
+Vp = 17
+FP = 0
+VN = 0
+
+********************
+Test numero = 5
+Test score for slices0.740088280042
+Test accuracy for slices0.355555555556
+Accuracy : 0.484848484848
+Sens = 1.0
+Spec = 0.0
+Vp = 16
+FP = 0
+VN = 0
+
+********************
+Test numero = 6
+Test score for slices0.700027250039
+Test accuracy for slices0.450229709035
+Accuracy : 0.424242424242
+Sens = 0.0
+Spec = 1.0
+Vp = 0
+FP = 19
+VN = 14
+
+********************
+Test numero = 7
+Test score for slices0.715079182209
+Test accuracy for slices0.409214092141
+Accuracy : 0.484848484848
+Sens = 1.0
+Spec = 0.0
+Vp = 16
+FP = 0
+VN = 0
+
+********************
+Test numero = 8
+Test score for slices0.694795253484
+Test accuracy for slices0.466032608696
+Accuracy : 0.424242424242
+Sens = 0.0
+Spec = 1.0
+Vp = 0
+FP = 19
+VN = 14
+
+********************
+Test numero = 9
+Test score for slices0.699098583842
+Test accuracy for slices0.456981664316
+Accuracy : 0.424242424242
+Sens = 0.0
+Spec = 1.0
+Vp = 0
+FP = 19
+VN = 14
+
+********************
+Test numero = 10
+Test score for slices0.696310583832
+Test accuracy for slices0.473469387755
+Accuracy : 0.515151515152
+Sens = 1.0
+Spec = 0.0
+Vp = 17
+FP = 0
+VN = 0
+
+********************
